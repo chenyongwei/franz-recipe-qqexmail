@@ -1,4 +1,4 @@
-# QQMail for Franz
+# QQExMail for Franz
 This is the Franz 5 Recipe for QQExMail
 
 ## Requirements
