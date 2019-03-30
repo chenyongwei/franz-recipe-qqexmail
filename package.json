@@ -1,0 +1,12 @@
+{
+  "id": "qqexmail",
+  "name": "QQExMail",
+  "version": "1.0.0",
+  "description": "QQ ExMail",
+  "main": "index.js",
+  "author": "Yongwei Chen <iamywchen@qq.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://exmail.qq.com/login"
+  }
+}
